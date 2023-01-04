@@ -1,2 +1,2 @@
 # diversification-Akodontini
-Code and input data used on the analyses from "Morphological disparity and diversity are not linked in a radiation of neotropical rodents".
+Code and input data used on the analyses from "Decoupled Patterns of Diversity and Disparity Characterize an Ecologically Specialized Lineage of Neotropical Cricetids".
