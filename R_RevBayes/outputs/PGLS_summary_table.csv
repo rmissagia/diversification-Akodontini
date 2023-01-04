@@ -1,0 +1,25 @@
+"","Intercept","Slope","F-statistic","Effect size","p-value","p-adj."
+"Skull ventral rates x Speciation rates",0.932,-0.095,0.701,0.287,0.409,1
+"Skull lateral rates x Speciation rates",0.847,-0.016,0.014,-1.277,0.887,1
+"Mandible rates x Speciation rates",0.923,-0.052,0.226,-0.354,0.647,1
+"Size rates x Speciation rates",0.722,-0.238,4.264,1.733,0.036,0.828
+"Skull ventral disparity x Speciation rates",0.529,-0.06,0.019,-1.307,0.886,1
+"Skull lateral disparity x Speciation rates",0.257,-0.353,0.543,0.16,0.469,1
+"Mandible disparity x Speciation rates",0.287,-0.24,0.354,-0.071,0.545,1
+"Size x Speciation rates",0.192,-0.411,2.676,1.239,0.111,1
+"Skull ventral rates x Extinction rates",1,0.08,2.07,1.006,0.165,1
+"Skull lateral rates x Extinction rates",0.829,0.17,8.004,2.159,0.009,0.216
+"Mandible rates x Extinction rates",0.951,0.088,2.763,1.206,0.12,1
+"Size rates x Extinction rates",0.919,0.05,0.73,0.408,0.36,1
+"Skull ventral disparity x Extinction rates",0.582,-0.004,0,-2.084,0.984,1
+"Skull lateral disparity x Extinction rates",0.618,-0.291,1.561,0.852,0.196,1
+"Mandible disparity x Extinction rates",0.505,-0.047,0.057,-0.982,0.813,1
+"Size x Extinction rates",0.557,-0.048,0.144,-0.496,0.686,1
+"Skull ventral rates x Skull ventral disparity",1.015,0,0,-2.127,0.989,1
+"Skull lateral rates x Skull lateral disparity",0.892,-0.055,2.387,1.203,0.1,1
+"Mandible rates x Mandible disparity",0.963,0.011,0.095,-0.726,0.763,1
+"Size rates x Size",0.915,0.026,0.178,-0.499,0.692,1
+"Skull ventral disparity x Skull ventral rates",0.587,-0.005,0,-2.287,0.992,1
+"Skull lateral disparity x Skull lateral rates",1.196,-0.736,2.387,1.151,0.108,1
+"Mandible disparity x Mandible rates",0.351,0.149,0.095,-0.73,0.757,1
+"Size x Size rates",0.437,0.12,0.178,-0.411,0.673,1
